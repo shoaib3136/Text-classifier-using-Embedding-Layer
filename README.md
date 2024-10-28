@@ -17,7 +17,6 @@ Vectorize the text data using TextVectorization, adapting it to the training set
 STEP 3:
 Define the neural network model with an embedding layer and Dense layers for classification, Compile the model, train it on the preprocessed datasets, and evaluate with a validation set and Visualize training metrics (accuracy and loss) across epochs to assess model performance.
 
-Write your own steps
 
 ## PROGRAM
 ### Name:Shaik Shoaib Nawaz
